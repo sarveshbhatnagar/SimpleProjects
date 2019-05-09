@@ -9,3 +9,10 @@ following references are used for developing this application:
 
 
 Main aim for this project was to work with keyboard events in Mac.
+
+
+# NoteReaderMac
+
+A simple Text to speech reader using ApplicationServices in CPP.
+
+We simply create a file,  write some text in it and read the text in the file using the ApplicationServices framework.
